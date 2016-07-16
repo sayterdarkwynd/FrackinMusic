@@ -1,0 +1,17 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Curse of the Scarab.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Corruption.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Junkyard Tribe.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Controlled Chaos.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Colossus.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_SuperBugs_Attack.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Evening_Falls.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Ice Demon.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/String Impromptu Number 1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/The_Imaginary_Sword.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Ambush_in_Rattlesnake_Gulch.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/The Endless.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Kimi-wo-Nosete-Lapu.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtue_lost.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"}
+]

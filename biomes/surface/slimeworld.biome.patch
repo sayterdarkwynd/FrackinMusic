@@ -1,0 +1,22 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Echoes of Time.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Clash Defiant.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Air Prelude.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Moorland.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Gagool.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dragon and Toast.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Controlled Chaos.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Ancients.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Planets - Mars.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/trinity.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dreaming_of_Flying.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Minds_Eye.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Piece for Two Fingers.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Procession.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Sacchrine Love Theme.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"}
+]

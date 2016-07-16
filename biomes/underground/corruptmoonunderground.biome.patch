@@ -1,0 +1,10 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Mirage.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Spacial Winds.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Angels_Redemption.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Crystal_Cavern.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Piece for Two Fingers.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Procession.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Sacchrine Love Theme.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"}
+]

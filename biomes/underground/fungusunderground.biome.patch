@@ -1,0 +1,22 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/darkerly-stormy.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/piece for two fingers.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Skynet.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-tomb-shaker.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/electricepic.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels_sing.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Building-a-Bridge.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dire_news.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/hope_for_rebirth.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/moontears-pt-i.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Morning-Routine.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mystic_river.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/nomad.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/nothing broken.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/notion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/peer gynt - morning.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_ancients.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_imaginary_sword.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtutes instrumenti.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"}
+]

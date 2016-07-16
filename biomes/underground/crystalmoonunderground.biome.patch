@@ -1,0 +1,18 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Mirage.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Spacial Winds.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-traveller.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/they_came_from_nowhere.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/winter.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Angels_Redemption.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/blind-love.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/crystal_cavern.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/frozen_silence.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/loss.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/minds_eye.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mirage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sacchrine love theme.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sanctuary.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Saving-Reality.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"}
+]

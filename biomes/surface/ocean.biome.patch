@@ -1,0 +1,26 @@
+[
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Gagool.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dragon and Toast.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Hope_for_rebirth.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Stranger.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Song_of_Mourning.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/beyond-the-coast.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Brave.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dire_news.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dreaming_of_flying.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ecosystem.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mystic_river.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/No-One-Fights-Alone.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/notion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sanctuary.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/stranger.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-long-journey.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/through_the_dark_portal.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Undersea-Dreams.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtue_lost.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"}
+
+]

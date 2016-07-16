@@ -1,0 +1,10 @@
+{
+  "name" : "FrackinMusic",
+  "friendlyName" : "Frackin' Music",
+  "requires" : [],
+
+  "includes" : [],
+  "version" : "2.0",
+  "author" : "sayter",
+  "description" : "Adds over 200 new tunes to your Starbound experience. Best when mixed with FrackinUniverse."
+}

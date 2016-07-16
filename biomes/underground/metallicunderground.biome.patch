@@ -1,0 +1,10 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Ancients.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Planets - Mars.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/artificial_intelligence.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/death-of-a-hero.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mirage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/onwards.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"}
+]

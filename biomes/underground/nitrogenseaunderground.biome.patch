@@ -1,0 +1,16 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Spacial Winds.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Frozen_Silence.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cold-front.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels_redemption.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels_tear.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/as-the-phoenix-rises.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/city-of-stars.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/crystal_cavern.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/onwards.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/passing_twilight.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/trinity.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/world_of_ice.ogg"}
+]

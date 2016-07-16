@@ -1,0 +1,12 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Virtue_Lost.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Dark_Fog.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Bazaar_of_Tal-Mashad.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Rainy_Day.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Desert_Village.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Piece for Two Fingers.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Procession.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Sacchrine Love Theme.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-irish-war.ogg"}
+]

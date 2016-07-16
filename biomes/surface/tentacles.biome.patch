@@ -1,0 +1,19 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Corruption.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dragon and Toast.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/tentacle-exploration1.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_SuperBugs_Attack.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Terrible_Tale.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Dark-Temple.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Red-Ray.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/return of lazarus.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/tentacle-exploration1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Claudius.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Cold-Front.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/City-of-the-Clouds.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Falling-Down.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-survivor.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/through_the_dark_portal.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtue_lost.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"}
+]

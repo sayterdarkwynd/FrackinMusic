@@ -1,0 +1,20 @@
+[
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Colossus.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Planets - Venus.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Planets - Mars.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Middle-Earth-Fire-M.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/piece for two fingers.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Peer Gynt - Anitras Dream.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Peer Gynt - Morning.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Future Gladiator.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mirage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/moontears-pt-i.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/passing_twilight.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Saving-Reality.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-survivor.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/trinity.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Undersea-Dreams.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/witchers-tale.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/WOJ-3.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"}
+]

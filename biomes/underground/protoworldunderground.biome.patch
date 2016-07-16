@@ -1,0 +1,17 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_SuperBugs_Attack.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Evening_Falls.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Ice Demon.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark-temple.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Machine.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/claudius.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/darkness_is_coming.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/i-killed-god.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/masquerade.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/No-One-Fights-Alone.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/peer gynt - anitras dream.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/psychedelic crater.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-long-journey.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"}
+]

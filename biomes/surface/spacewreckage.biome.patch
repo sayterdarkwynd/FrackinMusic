@@ -1,0 +1,7 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Orion 300XB.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Mystic_River.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Timewarp.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/enigmatic.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"}
+]

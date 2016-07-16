@@ -1,0 +1,23 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Myst on the Moor.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Minima.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Martian Cowboy.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Echoes of Time.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Echoes of Time v2.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Curse of the Scarab.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Clash Defiant.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Junkyard Tribe.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Controlled Chaos.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Ancients.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Planets - Mars.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/artificial_intelligence.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/death-of-a-hero.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mirage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/onwards.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"}
+
+]
