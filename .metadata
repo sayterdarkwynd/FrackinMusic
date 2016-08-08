@@ -1,10 +1,11 @@
 {
-  "name" : "FrackinMusic",
-  "friendlyName" : "Frackin' Music",
-  "requires" : [],
-
-  "includes" : [],
-  "version" : "2.0",
   "author" : "sayter",
-  "description" : "Adds over 200 new tunes to your Starbound experience. Best when mixed with FrackinUniverse."
+  "description" : "Note: Does NOT require FrackinUniverse, but is recommended since most of the tunes play on those biomes.\n\n\nWhat is FrackinMusic, and why is it so gigantic?\n\nIt adds (does not replace) over 250 new tunes to your Starbound experience. All from public domain, no copyrights infringed upon.  Best when mixed with FrackinUniverse. \n\nEssentially, you'll hear a ton of new music when you explore from all sorts of different influences and moods. \n\n Does not require FrackinUniverse or FrackinRaces as it can function standalone.\n\nThis is a CLIENT side mod, not a server side mod. All users wanting to hear the music must have it installed. Period.",
+  "friendlyName" : "Frackin' Music",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/729492703",
+  "name" : "FrackinMusic",
+  "requires" : [],
+  "steamContentId" : "729492703",
+  "version" : "2.0"
 }
