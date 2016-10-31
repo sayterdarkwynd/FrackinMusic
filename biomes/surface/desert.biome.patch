@@ -13,7 +13,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/labbaik.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-tomb-shaker.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ambush_in_rattlesnake_gulch.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels_sing.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels-sing.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bazaar_of_tal-mashad.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/By-The-Sword.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dama-may.ogg"},

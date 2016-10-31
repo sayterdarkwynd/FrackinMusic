@@ -4,7 +4,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Skynet.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-tomb-shaker.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/electricepic.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels_sing.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angels-sing.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Building-a-Bridge.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dire_news.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/hope_for_rebirth.ogg"},
