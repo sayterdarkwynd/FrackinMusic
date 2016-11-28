@@ -19,5 +19,4 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"}
-
 ]

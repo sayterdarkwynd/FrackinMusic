@@ -32,5 +32,4 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/aeon-of-the-angels.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"}
-
 ]
