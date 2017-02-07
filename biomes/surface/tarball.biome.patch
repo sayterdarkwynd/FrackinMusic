@@ -23,5 +23,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/land-of-zelmonia.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_epic.ogg"}
 ]

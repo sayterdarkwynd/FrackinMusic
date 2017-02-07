@@ -30,6 +30,9 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/land-of-zelmonia.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/alien_1.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_2.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"}
 
 ]

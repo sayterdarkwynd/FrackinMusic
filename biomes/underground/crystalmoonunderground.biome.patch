@@ -14,5 +14,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sacchrine love theme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sanctuary.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Saving-Reality.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cosmic_2.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cosmic_3.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alien_1.ogg"}
 ]

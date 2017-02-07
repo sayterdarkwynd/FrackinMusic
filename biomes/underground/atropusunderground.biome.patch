@@ -21,5 +21,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/logical_defiance.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/psychedelic crater.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_ancients.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/track=88.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/track=88.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/atropus_handyman.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/atropus_handyman.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark_somethingominous.ogg"}
 ]

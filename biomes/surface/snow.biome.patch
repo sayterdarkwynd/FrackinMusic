@@ -3,7 +3,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Ritual.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Terrible_Tale.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Survivor.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Blind-Love-th.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/blind-love.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/frozen_silence.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/ice demon.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},

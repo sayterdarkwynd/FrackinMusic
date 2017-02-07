@@ -23,5 +23,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"}
 ]

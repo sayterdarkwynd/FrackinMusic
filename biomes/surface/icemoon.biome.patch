@@ -33,6 +33,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/years-to-come.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/icewaste_surface.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/icewaste_surface2.ogg"}
 
 ]

@@ -15,5 +15,9 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the endless.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_imaginary_sword.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Voxel-Heart.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/witchers-tale.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/witchers-tale.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_sombre.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/infernus_night.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_surface.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_surface2.ogg"}
 ]

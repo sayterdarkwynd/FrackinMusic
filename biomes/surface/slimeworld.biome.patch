@@ -14,9 +14,20 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Minds_Eye.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Piece for Two Fingers.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Procession.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Sacchrine Love Theme.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Sacchrine Love Theme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/isibindis-journey.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Naturewalk.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/No-One-Fights-Alone.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/notion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/psychedelic crater.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_ancients.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/through_the_dark_portal.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/folklore.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cosmic_2.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alien_1.ogg"}
 ]

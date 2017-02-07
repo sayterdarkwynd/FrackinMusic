@@ -21,5 +21,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/logical_defiance.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_terrible_tale.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/they_came_from_nowhere.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/they_came_from_nowhere.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark_darkstar.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_fallingskies.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_foundandlost.ogg"}
 ]

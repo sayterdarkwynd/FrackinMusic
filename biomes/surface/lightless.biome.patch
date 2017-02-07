@@ -30,5 +30,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/land-of-zelmonia.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/no-sleep.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/no-sleep.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark_darkstar.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_fallingskies.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_foundandlost.ogg"}
 ]

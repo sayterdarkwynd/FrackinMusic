@@ -21,5 +21,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/they_came_from_nowhere.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/through_the_dark_portal.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/proto_surface.ogg"}
 ]

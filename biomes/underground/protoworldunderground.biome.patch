@@ -13,5 +13,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/psychedelic crater.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-long-journey.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto_surface.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"}
 ]

@@ -20,5 +20,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/witchers-tale.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/WOJ-3.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_epic.ogg"}
 ]

@@ -25,5 +25,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-green-valley.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark_slowdarkness.ogg"}
 ]

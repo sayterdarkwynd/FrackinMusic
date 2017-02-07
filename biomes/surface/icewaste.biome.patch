@@ -30,5 +30,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/world_of_ice.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/araba.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/icewaste_surface.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/icewaste_surface2.ogg"}
 ]

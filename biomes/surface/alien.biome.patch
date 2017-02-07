@@ -33,5 +33,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/through_the_dark_portal.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/thunder dreams.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/jungle_day.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/jungle_drums.ogg"}
 ]

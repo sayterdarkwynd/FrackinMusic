@@ -13,5 +13,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-survivor.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/trinity.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/witchers-tale.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/WOJ-3.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/WOJ-3.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_epic.ogg"}
 ]
