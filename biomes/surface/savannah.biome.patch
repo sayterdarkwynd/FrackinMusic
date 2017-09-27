@@ -25,7 +25,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/planetarium.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/procyon.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/stellarformation.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/vastimmortalsuns.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/vast-immortal-suns.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/atlas.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/blue-straggler.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cygnus-x1.ogg"},
