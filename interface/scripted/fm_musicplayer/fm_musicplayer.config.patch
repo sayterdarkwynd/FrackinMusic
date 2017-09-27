@@ -1,0 +1,2062 @@
+[
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "A Day Of Life",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/A-Day-of-Life.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Aeon Of The Angels",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/aeon-of-the-angels.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Air Prelude",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Air Prelude.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Alien 1",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/alien_1.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Allada",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Allada.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Ambush In Rattlesnake Gulch",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/ambush_in_rattlesnake_gulch.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Angels Redemption",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/angels_redemption.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Angels Tear",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/angels_tear.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Angels Sing",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/angels-sing.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Angevin",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Angevin.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Apocalypse",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Apocalypse.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Araba",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/araba.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Artificial Intelligence",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/artificial_intelligence.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "As The Phoenix Rises",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/as-the-phoenix-rises.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Atropus",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/atropus.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Atropus Handyman",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/atropus_handyman.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Atropus World",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/atropusworld.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Awakening",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/awakening.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Bazaar Of Tal Mashad",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/bazaar_of_tal-mashad.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Beyond The Coast",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/beyond-the-coast.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Blind Love",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/blind-love.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Brave",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Brave.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Building A Bridge",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Building-a-Bridge.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Burn Them Down",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/burn_them_down.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "By The Sword",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/By-The-Sword.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Castle Meinhoff",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/castle-meinhoff.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Catacombs Feat Fior",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/catacombs-feat-fior.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Celtic Fever",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/celtic-fever.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "City Of Stars",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/City-of-Stars.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "City Of The Clouds",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/City-of-the-Clouds.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Clash Defiant",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Clash Defiant.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Claudius",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/claudius.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Cold Front",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/cold-front.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Colossus",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Colossus.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Come Play With Me",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Come Play with Me.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Consequence",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Consequence.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Controlled Chaos",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Controlled Chaos.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Corruption",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Corruption.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Cosmic 2",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/cosmic_2.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Cosmic 3",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/cosmic_3.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Crystal Cavern",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/crystal_cavern.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Curse Of The Scarab",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Curse of the Scarab.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dama May",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dama-may.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dense Macabre",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/danse_macabre.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark Dance",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Dark Dance.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark Times",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Dark Times.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Dark Star",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_darkstar.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Falling Skies",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_fallingskies.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Fog",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_fog.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Found And Lost",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_foundandlost.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Secrets",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_secrets.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Sinister Caverns",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_sinistercaverns.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Slow Darkness",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_slowdarkness.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark, Something Ominous",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark_somethingominous.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Darkerly Stormy",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/darkerly-stormy.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Darkness Is Coming",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/darkness_is_coming.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dark Temple",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dark-temple.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Day Of Chaos",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/day_of_chaos.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Death Of A Hero",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/death-of-a-hero.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Desert Village",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/desert_village.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dilate",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dilate.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dire News",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dire_news.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dragon and Toast",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Dragon and Toast.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Dreaming Of Flying",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/dreaming_of_flying.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Earth Prelude",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Earth Prelude.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Echoes of Time V2",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Echoes of Time v2.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Echoes of Time",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Echoes of Time.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Ecosystem",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/ecosystem.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Egmont Overture",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/egmont_overture.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Electricepic",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/electricepic.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "End Of Days",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/end-of-days.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Enigmatic",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/enigmatic.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Esperanza De La Veg",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/esperanza-de-la-veg.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Evening Falls",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/evening_falls.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Evening Of Chaos",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/evening_of_chaos.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Everything We Stand",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/everything-we-stand.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Exotic Battle",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Exotic Battle.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Fading Memories",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Fading-Memories.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Falling Down",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/falling-down.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Fall Of An Angel",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Fall-Of-An-Angel.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Folk Round",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Folk Round.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Folk Lore",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/folklore.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Night",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest night.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Lament",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest_lament.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Lonely",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest_lonely.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Night 1",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest_night1.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Night 2",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest_night2.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Sombre",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest_sombre.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Forest Of Desolation",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/forest-of-desolation.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Frozen Silence",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/frozen_silence.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Future Gladiator",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/future gladiator.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Gagool",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Gagool.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Halindir Vanaheim",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/halindir-vanaheim.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Heavy Heart",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Heavy Heart.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Honour In Death",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/honour-in-death.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Hope For Rebirth",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/hope_for_rebirth.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Hymn Of Twilight",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/hymn_of_twilight.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Ice Demon",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/ice demon.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Icewaste Surface",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/icewaste_surface.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Icewaste Surface 2",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/icewaste_surface2.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "I Killed God",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/i-killed-god.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Infernus Epic",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/infernus_epic.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Infernus Night",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/infernus_night.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Infernus Sombre",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/infernus_sombre.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Infernus Surface",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/infernus_surface.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Infernus Surface 2",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/infernus_surface2.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Isibinis Journey",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/isibindis-journey.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Jalandhar",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Jalandhar.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Jungle Day",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/jungle_day.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Jungle Drums",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/jungle_drums.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Junkyard Tribe",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Junkyard Tribe.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Khufus Legacy",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/khufus-legacy.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Kimi Wo Nosete Lapu",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Kimi-wo-Nosete-Lapu.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Labbaik",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/labbaik.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Land Of Zelmonia",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/land-of-zelmonia.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Logical Defiance",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Logical_Defiance.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Loss",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/loss.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Machine",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Machine.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Martian Cowboy",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Martian Cowboy.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Masquerade",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/masquerade.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Merhaba",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/merhaba.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Metaphysik",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Metaphysik.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Middle Earth Fire M",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Middle-Earth-Fire-M.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Minds Eye",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/minds_eye.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Minima",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Minima.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Minstrel Guild",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/minstrel guild.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Mirage",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/mirage.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Moontears Pt I",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/moontears-pt-i.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Moorland",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Moorland.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Morning Routine",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Morning-Routine.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Myst On The Moor",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Myst on the Moor.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Mystic River",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/mystic_river.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Nature Walk",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Naturewalk.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Night Of Chaos",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/night of chaos.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Nomad",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Nomad.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "No One Fights Alone",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/No-One-Fights-Alone.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "No Sleep",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/no-sleep.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Nothing Broken",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/nothing broken.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Notion",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Notion.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Only Meith",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/onlymeith.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Onwards",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Onwards.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Orion 300xb",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/orion 300xb.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Passing Twilight",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/passing_twilight.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Peer Gynt - Anitras Dream",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/peer gynt - anitras dream.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Peer Gynt - Morning",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/peer gynt - morning.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Penumbra",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/penumbra.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Phantasm",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Phantasm.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Piece For Two Fingers",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/piece for two fingers.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Procession",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/procession.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Proto",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/proto.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Proto Surface",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/proto_surface.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Psychedelic Crater",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/psychedelic crater.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Quinns Song - First Night",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/quinns song-first night.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Rainy Day",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/rainy_day.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Red Ray",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Red-Ray.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Return Of Lazarus",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/return of lazarus.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Ritual",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Ritual.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Sacchrine Love Theme",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/sacchrine love theme.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Sanctuary",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/sanctuary.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Saving Reality",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Saving-Reality.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Semper Fidelis",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Semper-Fidelis.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Skynet",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Skynet.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Snow Drop",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/snowdrop.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Solara Theory II",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Solara-Theory-II.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Song Of Mourning",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/song_of_mourning.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Spacial Winds",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/spacial winds.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Stop And Stare",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/stop-and-stare.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Stranger",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/stranger.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "String Impromptu Number 1",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/string impromptu number 1.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Symphony For The Dead",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Symphony-for-the-Dead.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Endless",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the endless.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Planets - Mars",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the planets - mars.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Planets - Venus",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the planets - venus.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Ancients",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the_ancients.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Imaginary Sword",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the_imaginary_sword.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Superbugs Attack",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the_superbugs_attack.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Terrible Tale",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the_terrible_tale.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Ballad Of Reformation",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-ballad-of-reformation.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Green Valley",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-green-valley.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Irish War",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-irish-war.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Long Journey",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-long-journey.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Mourning",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/The-Mourning.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Spirit World",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-spirit-world.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Survivor",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-survivor.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Tomb Shaker",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-tomb-shaker.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "The Traveller",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/the-traveller.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "They Came From Nowhere",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/they_came_from_nowhere.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Through The Dark Portal",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/through_the_dark_portal.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Thunder Dreams",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/thunder dreams.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Thunderbird",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Thunderbird.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Time Warp",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/timewarp.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Track = 88",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/track=88.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Treetops",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/treetops.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Trinity",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/trinity.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Undersea Dreams",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Undersea-Dreams.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Villainous Tower",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/villainous-tower.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Virtue Lost",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/virtue_lost.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Virtutes Instrumenti",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/virtutes instrumenti.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Voxel Heart",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/Voxel-Heart.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Waves",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/waves.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Window",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/window.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Winter",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/winter.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Witchers Tale",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/witchers-tale.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "WOJ 3",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/WOJ-3.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "World Of Ice",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/world_of_ice.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }},
+	{"op":"add","path":"/techs/-",
+	"value":{
+        "name" : "dash",
+		"musicName" : "Years To Come",
+        "recipe" : [],
+        "recipeReq" : false,
+		"music" : "/music/years-to-come.ogg",
+		"category" : "frackin",
+        "item" : "fm_placeholder"
+    }}
+]
