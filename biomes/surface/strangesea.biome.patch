@@ -4,6 +4,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Heavy Heart.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Hope_for_rebirth.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Stranger.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_maridia.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Song_of_Mourning.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/waves.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/beyond-the-coast.ogg"},

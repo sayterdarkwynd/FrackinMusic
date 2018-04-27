@@ -38,5 +38,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_lonely.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night1.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"}
 ]

@@ -26,6 +26,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/mirage.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/onwards.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sanctuary.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_glass.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/string impromptu number 1.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Symphony-for-the-Dead.ogg"},

@@ -5,6 +5,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dark Dance.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_SuperBugs_Attack.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Evening_Falls.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_maridia.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Ice Demon.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark-temple.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Machine.ogg"},

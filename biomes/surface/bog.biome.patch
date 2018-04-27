@@ -31,5 +31,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/aeon-of-the-angels.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"}
 ]

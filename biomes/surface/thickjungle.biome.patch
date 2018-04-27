@@ -26,5 +26,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/merhaba.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/jungle_day.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/jungle_drums.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/jungle_drums.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworld_forest.ogg"}
 ]

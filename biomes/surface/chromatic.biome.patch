@@ -30,5 +30,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/treetops.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/no-sleep.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-green-valley.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-green-valley.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"}
 ]

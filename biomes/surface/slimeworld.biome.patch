@@ -29,5 +29,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/folklore.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cosmic_2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alien_1.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alien_1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"}
 ]

@@ -25,6 +25,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/passing_twilight.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Saving-Reality.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_glass.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/string impromptu number 1.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_imaginary_sword.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},

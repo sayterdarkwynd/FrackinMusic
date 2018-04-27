@@ -12,6 +12,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-irish-war.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/window.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/years-to-come.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_glass.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Angels-Sing.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/atropusworld.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/catacombs-feat-fior.ogg"},
