@@ -6,6 +6,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/arctic-constellation2.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/mercury.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/mira.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/narshe.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/procyon.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/tranquility-base.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/psyche.ogg"},

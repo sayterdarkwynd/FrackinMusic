@@ -5,6 +5,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Air Prelude.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Moorland.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Gagool.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/narshe.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Folk Round.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Endless.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Hope_for_rebirth.ogg"},
