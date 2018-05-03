@@ -1,4 +1,5 @@
 [
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angelhenge.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Metaphysik.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Martian Cowboy.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Echoes of Time v2.ogg"},

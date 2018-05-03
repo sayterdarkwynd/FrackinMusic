@@ -25,6 +25,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/piece for two fingers.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Skynet.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-tomb-shaker.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworldtheme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/epsilon-indi.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/hymn-to-the-stars.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/planetarium.ogg"},

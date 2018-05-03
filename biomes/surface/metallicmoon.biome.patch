@@ -22,5 +22,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cosmic_2.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark_darkstar.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cybersphere1.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cybersphere1.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"}
 ]

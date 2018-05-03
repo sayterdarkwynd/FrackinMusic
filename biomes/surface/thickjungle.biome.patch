@@ -9,6 +9,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/labbaik.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/A-Day-of-Life.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworldtheme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/beyond-the-coast.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Building-a-Bridge.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/By-The-Sword.ogg"},

@@ -6,6 +6,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Dire_News.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Forest Night.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Ecosystem.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/darkerly-stormy.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/evening_falls.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/the-irish-war.ogg"},
