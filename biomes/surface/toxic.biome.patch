@@ -40,5 +40,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Esperanza-de-la-Veg.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Darkerly-Stormy.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/aeon-of-the-angels.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

@@ -19,5 +19,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-survivor.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Undersea-Dreams.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtue_lost.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]
