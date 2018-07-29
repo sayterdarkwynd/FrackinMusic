@@ -37,5 +37,8 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night2.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworld_forest.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworld_forest.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"}
 ]

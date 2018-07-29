@@ -33,5 +33,9 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/aeon-of-the-angels.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"}
 ]

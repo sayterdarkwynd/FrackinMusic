@@ -32,5 +32,9 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/no-sleep.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-green-valley.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"}
 ]

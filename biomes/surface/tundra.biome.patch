@@ -20,5 +20,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/passing_twilight.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/WOJ-3.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"}
 ]

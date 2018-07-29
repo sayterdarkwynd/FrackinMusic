@@ -24,5 +24,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_epic.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/infernus_epic.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/darkambient2a.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/darkambient2b.ogg"}
 ]

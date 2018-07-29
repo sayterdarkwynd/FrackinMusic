@@ -24,5 +24,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto_surface.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"}
 ]

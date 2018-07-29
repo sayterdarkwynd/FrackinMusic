@@ -37,5 +37,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/jungle_day.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/jungle_drums.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/savage.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/savage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"}
 ]
