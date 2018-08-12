@@ -58,5 +58,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/psycastle.ogg"}
 ]

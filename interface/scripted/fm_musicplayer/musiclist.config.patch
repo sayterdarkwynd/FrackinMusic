@@ -4,7 +4,37 @@
 	},
 	{"op":"add","path":"/FM/-",
 	"value":{
-		"name" : "A Day Of Life",
+		"name" : "Cybernetic Waste",
+		"directory" : "/music/cyberwaste.ogg",
+		"category" : "frackin"
+    }},		
+	{"op":"add","path":"/FM/-",
+	"value":{
+		"name" : "The Aether",
+		"directory" : "/music/aether.ogg",
+		"category" : "frackin"
+    }},		
+	{"op":"add","path":"/FM/-",
+	"value":{
+		"name" : "Simply Not There",
+		"directory" : "/music/simplynotthere.ogg",
+		"category" : "frackin"
+    }},		
+	{"op":"add","path":"/FM/-",
+	"value":{
+		"name" : "Psy-Castle",
+		"directory" : "/music/psycastle.ogg",
+		"category" : "frackin"
+    }},			
+	{"op":"add","path":"/FM/-",
+	"value":{
+		"name" : "Day Of Ruin",
+		"directory" : "/music/dayofruin.ogg",
+		"category" : "frackin"
+    }},		
+	{"op":"add","path":"/FM/-",
+	"value":{
+		"name" : "Hades",
 		"directory" : "/music/hades.ogg",
 		"category" : "frackin"
     }},	

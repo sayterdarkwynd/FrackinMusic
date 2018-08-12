@@ -57,5 +57,6 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/icewaste_surface.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/icewaste_surface2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/simplynotthere.ogg"}
 ]

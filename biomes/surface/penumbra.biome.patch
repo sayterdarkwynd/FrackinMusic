@@ -33,5 +33,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/proto_surface.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/savage.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/savage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dayofruin.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/simplynotthere.ogg"}
 ]
