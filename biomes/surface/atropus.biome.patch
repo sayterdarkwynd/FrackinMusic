@@ -1,6 +1,7 @@
 [
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Echoes of Time v2.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Come Play with Me.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/hades.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Phantasm.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Tomb-Shaker.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/atropus.ogg"},

@@ -2,7 +2,12 @@
         {"op":"add","path":"/FM",
 	"value": []
 	},
-	
+	{"op":"add","path":"/FM/-",
+	"value":{
+		"name" : "A Day Of Life",
+		"directory" : "/music/hades.ogg",
+		"category" : "frackin"
+    }},	
 	{"op":"add","path":"/FM/-",
 	"value":{
 		"name" : "A Day Of Life",
