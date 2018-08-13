@@ -5,6 +5,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Gagool.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dark Dance.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Survivor.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_maridia.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Stranger.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Penumbra.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Return of Lazarus.ogg"},
@@ -31,5 +32,8 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/proto_surface.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/proto_surface.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/savage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dayofruin.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/simplynotthere.ogg"}
 ]

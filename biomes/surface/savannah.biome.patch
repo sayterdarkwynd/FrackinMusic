@@ -46,5 +46,9 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/onwards.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/rainy_day.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-survivor.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

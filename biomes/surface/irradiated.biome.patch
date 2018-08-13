@@ -1,10 +1,12 @@
 [
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angelhenge.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Myst on the Moor.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Air Prelude.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Exotic Battle.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dragon and Toast.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Ice Demon.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/I-Killed-God.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_maridia.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Dark_Secrets.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Apocalypse.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cold-front.ogg"},
@@ -24,5 +26,9 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/villainous-tower.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/simplynotthere.ogg"}
 ]

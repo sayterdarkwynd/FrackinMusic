@@ -1,4 +1,5 @@
 [
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/angelhenge.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Metaphysik.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Martian Cowboy.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Echoes of Time v2.ogg"},
@@ -25,6 +26,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/passing_twilight.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Saving-Reality.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Snowdrop.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_glass.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/string impromptu number 1.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_imaginary_sword.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-ballad-of-reformation.ogg"},
@@ -33,5 +35,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/stop-and-stare.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/icewaste_surface.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/icewaste_surface2.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/icewaste_surface2.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/darkambient2a.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/darkambient2b.ogg"}
 ]

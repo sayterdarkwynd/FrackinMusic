@@ -24,6 +24,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_terrible_tale.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/treetops.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/savage.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-green-valley.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
@@ -31,5 +32,9 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_lonely.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night1.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworld_forest.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

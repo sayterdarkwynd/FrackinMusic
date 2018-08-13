@@ -6,6 +6,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Stranger.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Song_of_Mourning.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/waves.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_maridia.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/beyond-the-coast.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Brave.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dire_news.ogg"},
@@ -21,5 +22,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtue_lost.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/celtic-fever.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/castle-meinhoff.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

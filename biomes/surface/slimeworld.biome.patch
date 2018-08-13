@@ -6,6 +6,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Gagool.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dragon and Toast.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Controlled Chaos.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/narshe.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Ancients.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Planets - Mars.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The-Mourning.ogg"},
@@ -29,5 +30,11 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/folklore.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/isibindis-journey.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/cosmic_2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alien_1.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alien_1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

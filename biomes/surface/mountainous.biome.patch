@@ -1,4 +1,5 @@
 [
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/angelhenge.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Curse of the Scarab.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Clash Defiant.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Jalandhar.ogg"},
@@ -26,5 +27,11 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_night1.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night2.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_sombre.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_lonely.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_lonely.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

@@ -1,4 +1,5 @@
 [
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/angelhenge.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Curse of the Scarab.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Corruption.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Junkyard Tribe.ogg"},
@@ -13,5 +14,6 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/The Endless.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Kimi-wo-Nosete-Lapu.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/virtue_lost.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_norfair.ogg"}
 ]

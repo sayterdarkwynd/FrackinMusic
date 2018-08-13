@@ -9,6 +9,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/frozen_silence.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/ice demon.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/City-of-the-Clouds.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_glass.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/blind-love.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Loss.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Halindir-Vanaheim.ogg"},
@@ -25,6 +26,8 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/world_of_ice.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-green-valley.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/onlymeith.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/alien_1.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/alien_1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 
 ]

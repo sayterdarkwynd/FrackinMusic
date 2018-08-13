@@ -5,6 +5,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Folk Round.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Exotic Battle.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Earth Prelude.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/narshe.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dark Times.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Waves.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Dire_News.ogg"},
@@ -24,6 +25,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/peer gynt - morning.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/sacchrine love theme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Saving-Reality.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworldtheme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Solara-Theory-II.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the_terrible_tale.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/treetops.ogg"},
@@ -38,5 +40,11 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_lonely.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night1.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

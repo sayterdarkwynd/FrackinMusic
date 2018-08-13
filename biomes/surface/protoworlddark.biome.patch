@@ -1,10 +1,12 @@
 [
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/angelhenge.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Corruption.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Jalandhar.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Heavy Heart.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dark Dance.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_SuperBugs_Attack.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Evening_Falls.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/metroid_maridia.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Ice Demon.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dark-temple.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Machine.ogg"},
@@ -22,5 +24,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/end-of-days.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dilate.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/proto_surface.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"}
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/cosmic_3.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dayofruin.ogg"}
 ]

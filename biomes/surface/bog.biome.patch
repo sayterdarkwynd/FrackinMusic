@@ -5,6 +5,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Air Prelude.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Moorland.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Gagool.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/narshe.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Folk Round.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The Endless.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Hope_for_rebirth.ogg"},
@@ -31,5 +32,12 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/the-spirit-world.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/araba.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/aeon-of-the-angels.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/folklore.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

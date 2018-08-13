@@ -4,6 +4,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/evening_falls.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest-of-desolation.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/years-to-come.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworldtheme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/danse_macabre.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dire_news.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/everything-we-stand.ogg"},
@@ -26,5 +27,12 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_lonely.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night1.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest_night2.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"}
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/forest_sombre.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/metroid_green.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/funkfusion.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/gaiden.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ds31.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bb12.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/met1.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wa1.ogg"}
 ]

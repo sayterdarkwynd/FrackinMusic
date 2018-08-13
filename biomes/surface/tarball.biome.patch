@@ -5,6 +5,7 @@
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Heavy Heart.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Dragon and Toast.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/Colossus.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/narshe.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/tentacle-exploration1.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_SuperBugs_Attack.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/The_Terrible_Tale.ogg"},
