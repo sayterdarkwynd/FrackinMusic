@@ -19,6 +19,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Skynet.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/claudius.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_fog.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/nighthorror.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_secrets.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/darkness_is_coming.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/evening_of_chaos.ogg"},

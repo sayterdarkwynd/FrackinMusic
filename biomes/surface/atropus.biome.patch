@@ -15,6 +15,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Red-Ray.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/return of lazarus.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/window.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/nighthorror.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/atropusworld.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/atropus.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dark_fog.ogg"},

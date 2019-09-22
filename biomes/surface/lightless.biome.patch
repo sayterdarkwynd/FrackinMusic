@@ -16,6 +16,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/night of chaos.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/orion 300xb.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Red-Ray.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/nighthorror.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/return of lazarus.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/Skynet.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/claudius.ogg"},
