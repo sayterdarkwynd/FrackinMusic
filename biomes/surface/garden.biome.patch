@@ -4,6 +4,7 @@
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/evening_falls.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/forest-of-desolation.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/years-to-come.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/planets-binding"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/overworldtheme.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/danse_macabre.ogg"},
 {"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dire_news.ogg"},
