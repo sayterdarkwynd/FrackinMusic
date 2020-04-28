@@ -1,0 +1,345 @@
+--------------------
+File : alienitem.ogg
+Title : alienitem
+Artist : 
+Album : 
+--------------------
+File : alienjungle.ogg
+Title : alienjungle
+Artist : 
+Album : 
+--------------------
+File : alienjungleboss.ogg
+Title : Advance Wars "Unworldly Invasion" OC ReMix
+Artist : Majeles
+Album : http://ocremix.org
+--------------------
+File : alienlandscape.ogg
+Title : Bioluminescence
+Artist : Theophany
+Album : Harmony of a Hunter
+--------------------
+File : ambient_dark.ogg
+Title : ambient_dark
+Artist : 
+Album : 
+--------------------
+File : ancientguardian.ogg
+Title : Super Metroid "Into the Green World" OC ReMix
+Artist : Sam Dillard
+Album : http://ocremix.org
+--------------------
+File : ancientpower.ogg
+Title : Super Metroid "Beyond the Glass" OC ReMix
+Artist : Sam Dillard
+Album : http://ocremix.org
+--------------------
+File : atropusambiance1a.ogg
+Title : atropusambiance1a
+Artist : 
+Album : 
+--------------------
+File : atropusambiance2a.ogg
+Title : atropusambiance2a
+Artist : 
+Album : 
+--------------------
+File : atropusambiance3a.ogg
+Title : atropusambiance3a
+Artist : 
+Album : 
+--------------------
+File : atropusambiance4a.ogg
+Title : atropusambiance4a
+Artist : 
+Album : 
+--------------------
+File : a_thing.ogg
+Title : a_thing
+Artist : 
+Album : 
+--------------------
+File : chalkywoods.ogg
+Title : chalkywoods
+Artist : 
+Album : 
+--------------------
+File : command.ogg
+Title : command
+Artist : 
+Album : 
+--------------------
+File : constellations.ogg
+Title : constellations
+Artist : 
+Album : 
+--------------------
+File : cuteevent.ogg
+Title : cuteevent
+Artist : 
+Album : 
+--------------------
+File : darkambient2a.ogg
+Title : 2remastered
+Artist : 
+Album : 
+--------------------
+File : darkambient2b.ogg
+Title : darkambient2b
+Artist : 
+Album : 
+--------------------
+File : depth.ogg
+Title : Solitude
+Artist : zircon & C-GPO
+Album : Harmony of a Hunter
+--------------------
+File : devils_tritone.ogg
+Title : devils_tritone
+Artist : 
+Album : 
+--------------------
+File : dollboss.ogg
+Title : dollboss
+Artist : 
+Album : 
+--------------------
+File : dollhouse.ogg
+Title : dollhouse
+Artist : 
+Album : 
+--------------------
+File : eightmagics.ogg
+Title : Eight Magics (Danger)
+Artist : Sagnewshreds
+Album : Secret of Mana: Resonance of the Pure Land
+--------------------
+File : empireupperhand.ogg
+Title : empireupperhand
+Artist : 
+Album : 
+--------------------
+File : everlightjungle.ogg
+Title : everlightjungle
+Artist : 
+Album : 
+--------------------
+File : explorationfanfare.ogg
+Title : explorationfanfare
+Artist : 
+Album : 
+--------------------
+File : factory.ogg
+Title : kkspam17
+Artist : 
+Album : 
+--------------------
+File : fear.ogg
+Title : fear
+Artist : 
+Album : 
+--------------------
+File : fighter.ogg
+Title : Mega Man 3 "A Daring Escape" OC ReMix
+Artist : Jago
+Album : http://ocremix.org
+--------------------
+File : floodedcomplex.ogg
+Title : Valley of the Void VIP
+Artist : Fraxtil
+Album : Voyage EP
+--------------------
+File : flyingpyramid.ogg
+Title : Vectorman "Soiled by the Egyptians" OC ReMix
+Artist : timaeus222
+Album : http://ocremix.org
+--------------------
+File : ForestBattle1.ogg
+Title : ForestBattle1
+Artist : 
+Album : 
+--------------------
+File : ForestExploration1.ogg
+Title : ForestExploration1
+Artist : 
+Album : 
+--------------------
+File : ForestExploration2.ogg
+Title : ForestExploration2
+Artist : 
+Album : 
+--------------------
+File : gasgiant1.ogg
+Title : gasgiant1
+Artist : 
+Album : 
+--------------------
+File : GlacialHorizon.ogg
+Title : GlacialHorizon
+Artist : 
+Album : 
+--------------------
+File : hizzaque.ogg
+Title : hizzaque
+Artist : 
+Album : 
+--------------------
+File : industrial.ogg
+Title : industrial
+Artist : 
+Album : 
+--------------------
+File : infiltration.ogg
+Title : Desperation
+Artist : Mozzaratti
+Album : Harmony of a Hunter
+--------------------
+File : ixolinggrounds.ogg
+Title : Legend of Zelda: Ocarina of Time "Forest Wraiths" OC ReMix
+Artist : Emunator
+Album : http://ocremix.org
+--------------------
+File : japaneseruins.ogg
+Title : Final Fantasy VII "A Foray into the Eastern Horizons" OC ReMix
+Artist : mv
+Album : http://ocremix.org
+--------------------
+File : lethfleet.ogg
+Title : Hostile Shadows
+Artist : Mozzaratti
+Album : Harmony of a Hunter
+--------------------
+File : lethialabs.ogg
+Title : Final Fantasy VI "Allfactory" OC ReMix
+Artist : E-Bison
+Album : http://ocremix.org
+--------------------
+File : LurkingintheShadows.ogg
+Title : Lurking in the Shadows_Looping
+Artist : Eric Matyas
+Album : 
+--------------------
+File : magickaforest.ogg
+Title : Variations of Fear (Fear of the Heavens)
+Artist : Kylok feat. Trev Wignall, Bree
+Album : Secret of Mana: Resonance of the Pure Land
+--------------------
+File : mamapoptopboss.ogg
+Title : Hot Pursuit
+Artist : Kevin MacLeod
+Album : Miami Nights
+--------------------
+File : ninjapagoda.ogg
+Title : Assassin's Creed IV "Sanctity" OC ReMix
+Artist : timaeus222
+Album : http://ocremix.org
+--------------------
+File : OceanExploration1.ogg
+Title : Aquaria "Prayer for the Azure Waters" OC ReMix
+Artist : Garpocalypse
+Album : http://ocremix.org
+--------------------
+File : onslaught.ogg
+Title : Mega Man X "Brainsick Metal" OC ReMix
+Artist : Protricity
+Album : http://ocremix.org
+--------------------
+File : penguinhighway.ogg
+Title : NieR: Automata "Beautiful Rise" OC ReMix
+Artist : RoeTaKa
+Album : http://ocremix.org
+--------------------
+File : robotech.ogg
+Title : Wolf Among Us: Season One "Binding" OC ReMix
+Artist : aluminum
+Album : http://ocremix.org
+--------------------
+File : ruinedmonastery.ogg
+Title : Final Fantasy VII "A Foray into the Eastern Horizons" OC ReMix
+Artist : mv
+Album : http://ocremix.org
+--------------------
+File : scienceoutpost.ogg
+Title : Super Mario World 2: Yoshi's Island "A Long Way Home" OC ReMix
+Artist : nokbient
+Album : http://ocremix.org
+--------------------
+File : shoggothbossbattle.ogg
+Title : shoggothbossbattle
+Artist : 
+Album : 
+--------------------
+File : shores_of_tranquility.ogg
+Title : shores_of_tranquility
+Artist : 
+Album : 
+--------------------
+File : stageclear.ogg
+Title : Stage Clear
+Artist : 
+Album : Denjin Makai II / Guardians
+--------------------
+File : sunset_riders.ogg
+Title : Final Fantasy VI "A Fistful of Nickels" OC ReMix
+Artist : Jeff Ball, Jillian Aversa, XPRTNovice, zircon
+Album : http://ocremix.org
+--------------------
+File : svetlana.ogg
+Title : A Comet's Tale (A Curious Tale)
+Artist : Hylian Lemon
+Album : Secret of Mana: Resonance of the Pure Land
+--------------------
+File : swarm.ogg
+Title : swarm
+Artist : 
+Album : 
+--------------------
+File : temple.ogg
+Title : Symbol of the Ancients
+Artist : AriesT
+Album : Harmony of a Hunter
+--------------------
+File : TentacleExploration2.ogg
+Title : TentacleExploration2
+Artist : 
+Album : 
+--------------------
+File : theinvasion.ogg
+Title : Advance Wars "Unworldly Invasion" OC ReMix
+Artist : Majeles
+Album : http://ocremix.org
+--------------------
+File : thetowerinvincible.ogg
+Title : Dungeonmans "Tibetan Tussle" OC ReMix
+Artist : timaeus222
+Album : http://ocremix.org
+--------------------
+File : triesteforest.ogg
+Title : triesteforest
+Artist : 
+Album : 
+--------------------
+File : ViaAurora.ogg
+Title : ViaAurora
+Artist : 
+Album : 
+--------------------
+File : warlordsmight.ogg
+Title : warlordsmight
+Artist : 
+Album : 
+--------------------
+File : wasteland.ogg
+Title : Duke Nukem 3D "Nostalgic Dump" OC ReMix
+Artist : Mike Norvak
+Album : http://ocremix.org
+--------------------
+File : wastelandboss.ogg
+Title : Mega Man 5 "A Crook Man's Eyes" OC ReMix
+Artist : Nightswim
+Album : http://ocremix.org
+--------------------
+File : wizardabode.ogg
+Title : A Wistful Heart (Fond Memories)
+Artist : Jorito feat. JohnStacy, Lauren the Flute
+Album : Secret of Mana: Resonance of the Pure Land
